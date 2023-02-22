@@ -9,4 +9,6 @@ Handpose is a machine-learning model that allows for palm detection and hand-ske
 It can detect a maximum of one hand at a time and provides 21 3D hand keypoints that describe important locations on the palm and fingers.
 By holding up your hand in front of the web camera the program detects it and shows it on screen.
 I used the position of tip och Indexfinger to calculate when it points on the colored squares in app. 
-The RGB led on micro:bit changes color depending on whitch square is "touched" 
+The RGB led on micro:bit changes color depending on whitch square is "touched". 
+
+The code for the micro:bit is in the image microbit-screenshot.png
